@@ -1,0 +1,31 @@
+[
+    {
+      "id": 12345,
+      "title": "Lorem Ipsum",
+      "cover_img": "https://i.ibb.co/vmsydSN/cover.jpg",
+      "profile": "https://i.ibb.co/5TCPhGf/profile.png",
+      "reading_time": 10
+    },
+    {
+      "id": 67890,
+      "title": "Sample Article",
+      "cover_img": "https://i.ibb.co/vmsydSN/cover.jpg",
+      "profile": "https://i.ibb.co/5TCPhGf/profile.png",
+      "reading_time": 8
+    },
+    {
+      "id": 54321,
+      "title": "Random Thoughts",
+      "cover_img": "https://i.ibb.co/vmsydSN/cover.jpg",
+      "profile": "https://i.ibb.co/5TCPhGf/profile.png",
+      "reading_time": 12
+    },
+    {
+      "id": 98765,
+      "title": "Exploring Nature",
+      "cover_img": "https://i.ibb.co/vmsydSN/cover.jpg",
+      "profile": "https://i.ibb.co/5TCPhGf/profile.png",
+      "reading_time": 15
+    }
+  ]
+  
